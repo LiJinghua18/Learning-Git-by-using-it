@@ -7,9 +7,11 @@
 
 **git clone[repository地址(可以是http地址，也可以是ssh地址)]**
 
-该命令将从远程下载一个仓库到本地，之后本地有任何更新都可以直接使用git add、git commit、git push命令进行上传更新
+该命令将从远程下载一个仓库到本地，之后本地有任何更新都可以直接使用git add、git commit、git push命令进行上传更新到repository。
 
 ## 使用git remote命令
+
+**git remote add origin [B地址(可以是http地址，也可以是ssh地址)]**
 
 使用本命令有两个前提条件：
 
