@@ -4,11 +4,11 @@
 
 在你创建完本地repository和远程repository并将其关联后，常用命令对两者之间产生的影响可从下图直观的理解：
 
-![](C:\Users\lijinghua\Desktop\153475-20171013183602293-822234036.png)
+![](E:\BUAA\Learn the git by using\image\153475-20171013183602293-822234036.png)
 
 **接下来将解释以下内容：**
 
 - 工作目录、暂存区、本地仓库是什么
 - 常用命令对以上三者产生的影响
 
-![](C:\Users\lijinghua\Desktop\20140520090224203.png)
+![](E:\BUAA\Learn the git by using\image\20140520090224203.png)
